@@ -1,7 +1,10 @@
 <h1 align="center">Hey 👋, I'm <a href="https://github.com/klepto/">Augustine</a>! </h1>
 
 <p align="center">  
-I am a Full Stack Developer currently in charge of software architecture at <a href="https://github.com/hlwgroup">HLWGroup</a>. 💖 I have a huge passion for JVM and JVM-based languages. I love anything to do with concurrency, software optimization and pushing languages and tools to their limits. 💪 I firmly believe that the only reason complex issues exist is because of missing information, which is why I enjoy digging into uncharted territories and simplifying everything that passes through my hands.🕵️‍♀️ User experience is the king, wheter it be for a fellow developer or for a client. 👑
+I am a Full Stack Developer currently in charge of software architecture at <a href="https://github.com/hlwgroup">HLWGroup</a>. 💖 
+</p>
+<p align="center">  
+  I have a huge passion for JVM and JVM-based languages. I love anything to do with concurrency, software optimization and pushing languages and tools to their limits. 💪 I firmly believe that the only reason complex issues exist is because of missing information, which is why I enjoy digging into uncharted territories and simplifying everything that passes through my hands.🕵️‍♀️ User experience is the king, wheter it be for a fellow developer or for a client. 👑
 </p>
 
 <h3 align="center">Languages and Tools</h3>
