@@ -4,8 +4,9 @@
 I am a Software Engineer currently in charge of software architecture at <a href="https://github.com/hlwgroup">HLWGroup</a>. 💖 
 </p>
 <p align="center">  
-  I have a huge passion for JVM and JVM-based languages. I love anything to do with concurrency, software optimization and pushing languages and tools to their limits. I firmly believe that the only reason complex issues exist is because of missing information, which is why I enjoy digging into uncharted territories and simplifying everything that passes through my hands.🕵️‍♀️ User experience is the king, whether it be for a fellow developer or for a client.
+  I have a huge passion for JVM and JVM-based languages. I love anything to do with concurrency, software optimization and pushing languages and tools to their limits. I firmly believe that the only reason complex issues exist is because of missing information, which is why I enjoy digging into uncharted territories and simplifying everything that passes through my hands.🕵️‍♀️ User experience is king, whether it be a library for a fellow developer or a product for a client.
 </p>
+
 
 <h3 align="center">Languages and Tools</h3>
 
